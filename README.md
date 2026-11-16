@@ -53,7 +53,6 @@ Nmap done: 1 host up · 0 findings left unreported
   <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00FF41" />
 </p>
 
@@ -72,8 +71,8 @@ jwalanth@kali:~$ ./stats --live
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jwalanth61&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwalanth61&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" height="165" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="165" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" height="165" />
 </p>
 
 ```bash
