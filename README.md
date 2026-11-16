@@ -66,7 +66,7 @@ jwalanth@kali:~$ ls -la ~/.badges
 -r--r--r--  1 jwalanth  certified   TryHackMe_Jr_Penetration_Tester
 ```
 
-```bash
+<!--```bash
 jwalanth@kali:~$ ./stats --live
 ```
 
@@ -74,6 +74,7 @@ jwalanth@kali:~$ ./stats --live
   <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="165" />
   <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" height="165" />
 </p>
+-->
 
 ```bash
 jwalanth@kali:~$ ssh connect@jwalanth
